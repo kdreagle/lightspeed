@@ -13,6 +13,13 @@ OR
 - https://lightspeed.kdreagle.vercel.app/user/lan
 - https://lightspeed.kdreagle.vercel.app/user/stuart
 
+OR 
+
+- https://lightspeed-git-master.kdreagle.vercel.app/user/adam
+- https://lightspeed-git-master.kdreagle.vercel.app/user/tyler
+- https://lightspeed-git-master.kdreagle.vercel.app/user/lan
+- https://lightspeed-git-master.kdreagle.vercel.app/user/stuart
+
 The vercel deployment seems to be throwing sporadic 500 errors, so if you would like to see a local deployment, see instructions in the next section
 
 ## Local Instance
